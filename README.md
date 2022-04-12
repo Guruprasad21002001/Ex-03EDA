@@ -104,3 +104,6 @@ sns.heatmap(df.corr(),annot=True)
 ![17](https://user-images.githubusercontent.com/95342910/162872697-b14efcb1-7d1b-4aa7-823c-b297d44f0cd0.png)
 
 ![18](https://user-images.githubusercontent.com/95342910/162872721-08e484be-cafb-4baf-8e75-a4a4f63e3d5e.png)
+
+## RESULT
+Thus the EDA on the given data set is sucessfully done.
